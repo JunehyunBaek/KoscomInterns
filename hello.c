@@ -4,6 +4,7 @@ int main(void)
 {
 
 	int a;
+	printf("hello");
 	printf("%d", a);
 
 
